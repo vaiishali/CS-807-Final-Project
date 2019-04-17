@@ -29,7 +29,7 @@ Requirements and Materials
 ============
 
 Dependencies:
-* ESP8266 Wifi module https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide
+* ESP8266 WiFi module https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide
 
 Bill of Materials:
 * 1x RGB
