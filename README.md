@@ -10,6 +10,8 @@ It is perfect device to build an automatic watering system or smart garden where
 
 ![Project picture.jpg](https://github.com/vaiishali/CS-807-Final-Project/blob/master/img/Project%20picture.jpg)
 
+![Circuit Picture.jpg](https://github.com/vaiishali/CS-807-Final-Project/blob/master/img/Circuit%20Picture.jpg)
+
 
 Requirements and Materials
 ============
@@ -18,7 +20,7 @@ Requirements and Materials
 * **/hardware** - model.fzz
 * **/build** - calibrate.ino.
 * **/libraries** - <ESP8266WiFi.h>
-* **/examples** - Ecode.ino, calibrate.ino 
+* **/examples** - code.ino, calibrate.ino 
 * **/img** -  4 x images
 * **/LICENSE** 
 * **/README.md** 
@@ -39,7 +41,9 @@ Bill of Materials:
 Build Instructions
 ==================
 
+![BREADBOARD6_bb.jpg](https://github.com/vaiishali/CS-807-Final-Project/blob/master/img/BREADBOARD6_bb.jpg)
 
+![SCHEMATICS6_schem.jpg](https://github.com/vaiishali/CS-807-Final-Project/blob/master/img/SCHEMATICS6_schem.jpg)
 
 
 Firmware Installation
@@ -58,6 +62,22 @@ This is usually where you tell the user how the device works. Do you just upload
 * Turn the thing on. 
 * The thing will do a thing and it'll be really cool. 
 * Don't forget to feed the badgers!
+Team
+=====
+The build team consists of: 
+* Trevor Tomesh -- I did everything.
+* Joe McSchmoe -- He didn't do anything useful. 
+* Alison Roberts -- She made me food.
 
+Maybe say something about how people can contribute here?
+
+
+Credits
+=======
+
+This is where you give credit to any third parties that you borrowed from. 
+
+* Kenneth Reitz - consultation on directory structure
+* My wonderful class. :-)
 
 
