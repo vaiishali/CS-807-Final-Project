@@ -8,7 +8,7 @@ This device detects humidity of the soil and then the data is sent to the server
 This data can then be accessed remotely from anywhere around the world.
 It is perfect device to build an automatic watering system or smart garden where you can control your garden remotely.
 
-[pic1]: https://github.com/vaiishali/CS-807-Final-Project/blob/master/HARDWARE/Project%20picture.jpg "Logo Title Text 2"
+![Project picture.jpg](https://github.com/vaiishali/CS-807-Final-Project/blob/master/img/Project%20picture.jpg)
 
 
 Requirements and Materials
