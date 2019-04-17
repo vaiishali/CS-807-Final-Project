@@ -32,11 +32,11 @@ Dependencies:
 * ESP8266 WiFi module https://learn.adafruit.com/adafruit-feather-huzzah-esp8266/using-arduino-ide
 
 Bill of Materials:
-* 1x RGB
+* 1 x RGB LED
 * 1 x Moisture sensor
 * 1 x breadboard
 * 1 x  Adafruit Feather HUZZAH ESP8266
-* multiple jumper wires
+* Multiple jumper wires
 
 Build Instructions
 ==================
@@ -59,10 +59,10 @@ Usage
 To use the device, follow the given steps: 
 
 * Upload the code to the device. 
-* Wait for it to connect with local wifi. 
-* Put the soil moisture sensor in the soil 
-* Go to webserver link to view the moisture level
-* refresh link to view updated results
+* Wait for it to connect with local WiFi. 
+* Put the soil moisture sensor in the soil.
+* Go to webserver link to view the moisture level.
+* Refresh link to view updated results.
 
 
 Team
