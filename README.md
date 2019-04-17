@@ -56,28 +56,24 @@ The ESP8266 is connected to computer by a USB cable. <ESP8266WiFi.h> library is 
 
 Usage
 =====
-This is usually where you tell the user how the device works. Do you just upload the software and flip a switch? What sort of things does this thing do? Are there alternate settings / modes / programs that might be good to mention. This is where you tell the user exactly how the device or program is used. For example: 
+To use the device, follow the given steps: 
 
-* Upload the code to the thing. 
-* Turn the thing on. 
-* The thing will do a thing and it'll be really cool. 
-* Don't forget to feed the badgers!
+* Upload the code to the device. 
+* Wait for it to connect with local wifi. 
+* Put the soil moisture sensor in the soil 
+* Go to webserver link to view the moisture level
+* refresh link to view updated results
+
+
 Team
 =====
 The build team consists of: 
-* Trevor Tomesh -- I did everything.
-* Joe McSchmoe -- He didn't do anything useful. 
-* Alison Roberts -- She made me food.
-
-Maybe say something about how people can contribute here?
+* Vaishali -- Project designing, Coding, and project building.
 
 
 Credits
-=======
+======= 
 
-This is where you give credit to any third parties that you borrowed from. 
-
-* Kenneth Reitz - consultation on directory structure
-* My wonderful class. :-)
+* Trevor Tomesh -- Borrowing electronic components, advice on coding.
 
 
