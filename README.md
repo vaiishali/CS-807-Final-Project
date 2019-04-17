@@ -50,7 +50,7 @@ Firmware Installation
 =====================
 
 To give instructions, Arduino IDE (Computer Application) is used to upload the code to the device.
-The ESP8266 is connected to computer by a USB cable. <ESP8266WiFi.h> library is used to programm the device.
+The ESP8266 is connected to computer by a USB cable. <ESP8266WiFi.h> library is used to program the device.
 
 
 
