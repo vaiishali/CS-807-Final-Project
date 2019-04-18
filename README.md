@@ -4,6 +4,7 @@
 
 ### Overview
 
+For my CS-807 Final project, I have built a  Remotely monitored Soil Moisture Detection System.
 This device detects humidity of the soil and then the data is sent to the server with the help of Wi-Fi module.
 This data can then be accessed remotely from anywhere around the world.
 It is perfect device to build an automatic watering system or smart garden where you can control your garden remotely.
