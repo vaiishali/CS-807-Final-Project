@@ -1,4 +1,4 @@
-# CS-807-Final-Project
+# CS-807-Final-Project (Soil Moisture Detection)
 
 ## Remotely monitored Soil Moisture Detection System
 
